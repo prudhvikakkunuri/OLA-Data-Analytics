@@ -3,6 +3,12 @@
 ## 📄 Overview
 This project involved creating an insightful and interactive Power BI dashboard to analyze key metrics such as order bookings, revenue, ratings, and cancellations across different vehicle type sub-categories over a span of two years. The primary objective was to deliver clear and actionable insights for data-driven decision-making.
 
+![Power BI Dashboard](images/Overview.png)
+![Power BI Dashboard](images/Vehicletype.png)
+![Power BI Dashboard](images/Revenue.png)
+![Power BI Dashboard](images/Cancellations.png)
+![Power BI Dashboard](images/Ratings.png)
+
 
 ## ✨ Key Features
 
